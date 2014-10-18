@@ -1,0 +1,19 @@
+{
+  "name": "simple-cipher",
+  "version": "1.0.0",
+  "description": "Wrapper around crypto cipher for encrypting and decrypting JSON objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aantthony/simple-cipher.git"
+  },
+  "author": "Anthony Foster <git@af.id.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aantthony/simple-cipher/issues"
+  },
+  "homepage": "https://github.com/aantthony/simple-cipher"
+}
