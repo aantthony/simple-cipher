@@ -51,3 +51,6 @@ Returns: `String` ciphertext
 - *ciphertext* `String`
 
 Returns `Object` deserialized and decrypted object.
+
+
+[![Build Status](https://travis-ci.org/aantthony/simple-cipher.png?branch=master)](https://travis-ci.org/aantthony/simple-cipher)
