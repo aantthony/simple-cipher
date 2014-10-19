@@ -1,6 +1,6 @@
 {
   "name": "simple-cipher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper around crypto cipher for encrypting and decrypting JSON objects.",
   "main": "index.js",
   "scripts": {
