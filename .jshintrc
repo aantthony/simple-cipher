@@ -3,5 +3,6 @@
   "eqeqeq": true,
   "newcap": true,
   "undef": true,
-  "node": true
+  "node": true,
+  "globals": {"before":true, "after":true, "it":true, "describe":true, "beforeEach": true, "afterEach": true}
 }
